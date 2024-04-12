@@ -6,7 +6,6 @@
     <title>Analítica de datos</title>
     <style>
         body {
-            <img src="analytics-3088958_640.jpg" alt="Example Image">
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -48,7 +47,8 @@
 </head>
 <body>
     <header>
-        <h1>My Blog</h1>
+        <h1>Analítica de datos</h1>
+        <img src="example.jpg" alt="Example Image">
     </header>
     <nav>
         <a href="#">Home</a>
