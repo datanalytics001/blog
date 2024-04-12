@@ -1,70 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Analítica de datos</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 20px;
-            text-align: center;
-        }
-        nav {
-            background-color: #666;
-            padding: 10px;
-            text-align: center;
-        }
-        nav a {
-            color: #fff;
-            text-decoration: none;
-            margin: 0 10px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 0 20px;
-        }
-        article {
-            background-color: #fff;
-            padding: 20px;
-            margin-bottom: 20px;
-        }
-        h2 {
-            color: #333;
-        }
-        p {
-            color: #666;
-        }
-    </style>
+  <title>Analítica de datos</title>
 </head>
 <body>
-    <header>
-        <h1>Analítica de datos</h1>
-        <img src="analytics-3088958.jpg" alt="Example Image">
-    </header>
-    <nav>
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
-    </nav>
-    <div class="container">
-        <article>
-            <h2>Post Title 1</h2>
-            <p>This is the content of the first blog post.</p>
-        </article>
-        <article>
-            <h2>Post Title 2</h2>
-            <p>This is the content of the second blog post.</p>
-        </article>
-        <!-- More articles can be added here -->
-    </div>
+  <h1>¡Bienvenidos!</h1>
+  <p>Aqúí encontraras datos de negocios.</p>
+  <a href="https://www.example.com">Enlace a otra página</a>
+  <img src="analytics-3088958.jpg" alt="Descripción de la imagen">
 </body>
 </html>
