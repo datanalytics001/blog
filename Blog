@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>Analítica de datos blog</head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bienenidos al buscador de temas</title>
+    <title>Bienvenidos al buscador de temas</title>
     <style>
         body {
-            <img src="https://drive.google.com/file/d/1Z26P0Ll1u9ZSNtTN9Lud8cJc2OeDoNqh/view?usp=drive_link" alt="Bases de datos por tema">
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
